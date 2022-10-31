@@ -1,0 +1,1 @@
+Here is a description of my project. This project is very simple, I am just demo'ing the git status command.
